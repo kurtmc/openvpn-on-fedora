@@ -1,5 +1,7 @@
 # OpenVPN on Fedora 21
 
+Based off https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-14-04
+
 ##### Step 1 — Install and Configure OpenVPN's Server Environment
 
 Update system
